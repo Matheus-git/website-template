@@ -12,6 +12,8 @@ This is a responsive and modern website template built with **HTML** and styled 
 - **HTML**: The basic structure of the page.
 - **TailwindCSS**: A utility-first CSS framework used to style the page quickly and responsively.
 
+![screenshot](assets/screenshot.png)
+
 ## Project Structure
 
 The template consists of three main sections:
